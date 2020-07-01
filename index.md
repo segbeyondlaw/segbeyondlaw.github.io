@@ -31,7 +31,7 @@ Despite _Shelley v. Kraemer_ and Minnesota Statute 507.18, residential segregati
         <font face="Courier" size="1"> # Segregation Beyond the Law </font>
       </td>
       <td rowspan=2>
-        <font face="Georgia, serif" size="6"> Segregation Beyond the Law </font>
+        <font face="Georgia, serif" size="4"> Segregation Beyond the Law </font>
       </td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ Despite _Shelley v. Kraemer_ and Minnesota Statute 507.18, residential segregati
         </font>
       </td>
       <td rowspan=2>
-        <font size="5"> How legal systems failed to reverse residential segregation </font>
+        <font size="3"> How legal systems failed to reverse residential segregation </font>
       </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ Despite _Shelley v. Kraemer_ and Minnesota Statute 507.18, residential segregati
         </font>
       </td>
       <td>
-        <font size="4"> Minneapolis, Minnesota </font>
+        <font size="2"> Minneapolis, Minnesota </font>
       </td>
     </tr>
     <tr>
